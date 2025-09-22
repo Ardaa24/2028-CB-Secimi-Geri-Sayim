@@ -1,0 +1,80 @@
+
+html 
+{
+background: url(https://c.tenor.com/f3HGfIRTPGYAAAAd/atat%C3%BCrk-mustafa-kemal-atat%C3%BCrk.gif)  no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+
+background-size: cover;
+}
+
+    html,
+    body {
+        min-height: 500px;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        background: url('https://c.tenor.com/f3HGfIRTPGYAAAAd/atat%C3%BCrk-mustafa-kemal-atat%C3%BCrk.gif');
+        background-size: cover;
+        font-family: 'Roboto Slab', cursive;
+        font-weight: 100;
+        letter-spacing: 3px;
+        color: rgb(177, 14, 14);
+        text-transform: capitalize;
+    }
+
+    .main {
+        width: 100%;
+        height: 100%;
+        background: #0009;
+        display: flex;
+        align-items: center;
+        flex-wrap: nowrap;
+        align-content: center;
+        justify-content: center;
+    }
+
+    .box {
+        border: 1px solid rgba(182, 7, 7, 0.467);
+        padding: 10px;
+        width: 75%;
+        height: 75%;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        font-size: xx-large;
+        padding: 25px;
+    }
+
+    h1 {
+        letter-spacing: 2px;
+        font-size: 125%;
+    }
+
+    h2 {
+        color: rgb(255, 255, 255) !important;
+        font-size: 100%;
+    }
+
+
+    a {
+        color: aliceblue;
+        text-decoration: none;
+        text-align: center;
+        text-shadow: 1px;
+        font-size: 18px;
+        transition: color 0.5s;
+        
+        
+    }
+    a:hover {
+        color: rgb(24, 158, 46);
+        font-weight: bold;
+    }
