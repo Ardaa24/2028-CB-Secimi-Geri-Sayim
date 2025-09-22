@@ -11,8 +11,9 @@ Bu proje, **2028 Türkiye Cumhurbaşkanlığı seçimlerine kalan süreyi** gün
 - Responsive (mobil uyumlu) yapı  
 
 ## 📷 Önizleme
-![Önizleme](<img width="1869" height="961" alt="image" src="https://github.com/user-attachments/assets/b4e7b1b5-9928-414a-8650-37bbec369c32" />
-)  
+![Önizleme]
+<img width="1869" height="961" alt="image" src="https://github.com/user-attachments/assets/b4e7b1b5-9928-414a-8650-37bbec369c32" />
+  
 
 
 ## ⚙️ Kurulum ve Kullanım
